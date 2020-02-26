@@ -1,0 +1,1 @@
+# flutter_I_am_rich
